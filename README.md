@@ -1,11 +1,17 @@
-### Hi there 👋
+### Develop Stuff that Matters
+### Hi there 👋 
+
+- Skillful in creating real-world applications 
+- Junior Computer Engineer at Trident Labs
+- Interests: Financial Modelling, Smart Contracts, Blockchains, Machine Learning
 
 <!--
 **abhita/abhita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- Skillful in creating real-world applications 
+- Junior Computer Engineer at Trident Labs
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
