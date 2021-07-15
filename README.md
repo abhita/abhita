@@ -7,7 +7,7 @@
 - Frameworks: Hyperledger Fabric, Ethereum, Robot Operating System, .NET
 - Database Languages: SQlite3, MySQL
 - Programming Environments: Eclipse, R Studio, Spyder, Visual Studio, Codeblocks, Remix
-- Web Development: HTML, CSS, Javascript, Node.js, Vue.js
+- Web Development (Beginner): HTML, CSS, Javascript, Node.js, Vue.js
 - Other skills and technical interests: Algorithm Development, Blockchains 
 - Interests: Financial Modelling, Smart Contracts, Blockchains, Machine Learning
 
