@@ -3,8 +3,8 @@
 
 - Skillful in creating real-world applications 
 - Junior Computer Engineer at Trident Labs
-- Programming Languages: R, C, C++, Python, Golang, Solidity, C#
-- Frameworks: Hyperledger Fabric, Ethereum, Robot Operating System, .NET
+- Programming Languages: R, C, C++, Python, Solidity, C#
+- Frameworks: Hyperledger Fabric, Ethereum, Robot Operating System
 - Database Languages: SQlite3, MySQL
 - Programming Environments: Eclipse, R Studio, Spyder, Visual Studio, Codeblocks, Remix
 - Web Development (Beginner): HTML, CSS, Javascript, Node.js, Vue.js
