@@ -3,13 +3,7 @@
 
 - Skillful in creating real-world applications 
 - Junior Computer Engineer at Trident Labs
-- Programming Languages: R, C, C++, Python, Solidity, C#
-- Frameworks: Hyperledger Fabric, Ethereum, Robot Operating System
-- Database Languages: SQlite3, MySQL
-- Programming Environments: Eclipse, R Studio, Spyder, Visual Studio, Codeblocks, Remix
-- Web Development (Beginner): HTML, CSS, Javascript, Node.js, Vue.js
-- Other skills and technical interests: Algorithm Development, Blockchains 
-- Interests: Financial Modelling, Smart Contracts, Blockchains, Machine Learning
+- Technical interests: Algorithm Development, Blockchains, Financial Modelling, Machine Learning
 
 <!--
 **abhita/abhita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
