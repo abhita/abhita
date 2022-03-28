@@ -1,6 +1,6 @@
 ### Develop Stuff that Matters
 ### Hi there 👋 
-
+![](https://komarev.com/ghpvc/?username=abhita)
 - Skillful in creating real-world applications 
 - Junior Computer Engineer at Trident Labs
 - Technical interests: Algorithm Development, Blockchains, Financial Modelling, Machine Learning
