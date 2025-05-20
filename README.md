@@ -10,7 +10,6 @@
 
 Here are some ideas to get you started:
 
-- Skillful in creating real-world applications 
 - Junior Computer Engineer at Trident Labs
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
